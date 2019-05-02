@@ -12,5 +12,5 @@
 + Android Build Tools v23.0.2
 
 ## Getting started
-Google+ Community:[https://plus.google.com/communities/105153134372062985968]
-Stack Overflow: http://stackoverflow.com/questions/tagged/android
++ Google+ Community:[https://plus.google.com/communities/105153134372062985968]
++ Stack Overflow: http://stackoverflow.com/questions/tagged/android
