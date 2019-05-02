@@ -16,4 +16,4 @@
 + Stack Overflow: http://stackoverflow.com/questions/tagged/android
 
 ## License
-This project is licensed under the Apache License, see the LICENSE[https://github.com/ShivangiSingh17/Earthquake-report-app/blob/master/LICENSE] for more details.
+This project is licensed under the Apache License, see the [LICENSE](https://github.com/ShivangiSingh17/Earthquake-report-app/blob/master/LICENSE) for more details.
