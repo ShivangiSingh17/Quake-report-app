@@ -14,3 +14,6 @@
 ## Getting started
 + Google+ Community:[https://plus.google.com/communities/105153134372062985968]
 + Stack Overflow: http://stackoverflow.com/questions/tagged/android
+
+## License
+This project is licensed under the Apache License, see the LICENSE[https://github.com/ShivangiSingh17/Earthquake-report-app/blob/master/LICENSE] for more details.
