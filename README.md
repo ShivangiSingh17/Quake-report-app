@@ -1,6 +1,6 @@
 # Earthquake Report App
 
-+ Used in a basis building unit in the Udacity course in the Beginning Android Nanodegree.
+Build on the practice basis building unit as learned as per the Udacity course in the Beginning Android Nanodegree.
 
 ## Description 
 + This app displays a list of recent earthquakes in the world
